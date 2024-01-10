@@ -1,0 +1,44 @@
+.topic{
+    text-align: center;
+}
+.topic h1{
+    color: #4a69bd;
+}
+.topic h2{
+    color: #60a3bc;
+}
+.topic img{
+    width: 200px;
+    height: 200px;
+}
+.text h2{
+    text-align: center;
+    color: #60a3bc;
+    
+}
+.text{
+    max-width: 800px;
+    margin:auto;
+}
+.button button{
+    padding-top: 50px;
+    background-color: #60a3bc;
+    color: white;
+    font-size: 18px;
+    padding: 10px 25px;
+    border-radius: 8px;
+    margin-left: 0%;
+    cursor: pointer;
+    border: none;
+}
+.button{
+    text-align:center;
+}
+
+.link img{
+    width: 30px;
+    height: 30px;
+}
+.link{
+    text-align: center;
+}
